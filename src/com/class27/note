@@ -1,0 +1,10 @@
+Final keyword:
+final is a keyword in java that belongs to non access modifiers
+we can use final keyword with variables method ams classes.
+with variables :
+when used with variables we can not change the content of that variable.
+but if that variables points to an array or any other objects we can change the contents of that array or object.
+
+Abstraction in java
+In abstraction the internal details of the methods are hidden and we only expose the
+signature of the methods with return types.

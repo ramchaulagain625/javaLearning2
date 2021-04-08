@@ -14,4 +14,8 @@ public class Ram extends Parents{
     void sleep() {
         System.out.println(name+" sleep as long as i can");
     }
+
+    public void run(){
+        System.out.println(name+" is run fast");
+    }
 }
