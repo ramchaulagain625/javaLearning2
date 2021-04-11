@@ -49,6 +49,6 @@ public abstract class Vehicles{
                 System.out.println("Can go very fast up to 500 miles per hour");
             }
             public void display(){
-                System.out.println("Mcodel "+model+" "+make+"is making and its vin is "+vin_number);
+                System.out.println("Model "+model+" "+make+"is making and its vin is "+vin_number);
             }
         }
