@@ -1,0 +1,25 @@
+Variables
+They hold data
+1)one value at a time what if we need to store more data we will have to define that many variables not feasible.
+
+Arrays:
+Consecutive memory location pointed by a single variable.
+1) Fixed in size once that arrays is declared we cannot  change the size.
+2)If we declare a bigger arrays at the start we may be wasting memory
+3)If we declare a smaller array we have to do a lot o work to accommodate entries beyond the size of the array
+
+Collections
+Is a collections of classes and interfaces that can hold an objects as a unit like arrays but with a lot flexibility.
+
+pros
+1) Less code built in method for a common problem we may face.
+2) No fixed sizes all the classes in collections framework are flexible
+we don't need to declare ate size upfront
+3)Memory efficient
+cons:
+we cannot use the primitive data type in collections framework to overcome this issue have wrapper classes.
+
+
+What is wrapper class?
+Wrapper classes are just object equivalent of primitive types for all of the primitive types. We have wrapper
+classes we can use them in collections framework.
